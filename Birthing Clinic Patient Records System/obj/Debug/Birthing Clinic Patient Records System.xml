@@ -1,0 +1,136 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Birthing Clinic Patient Records System
+</name>
+</assembly>
+<members>
+<member name="T:Birthing_Clinic_Patient_Records_System.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.background1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.Floresca_Photo_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.Floresca_Photo_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.Floresca_Photo_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.gray_picture">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.iconcalendar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.iconcontrol">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.iconexit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.iconhelp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.iconhome">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.iconinvisible">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.iconlogout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.iconminimize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.iconnotifi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.iconpadlock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.iconrecords">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.iconslidehide">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.iconslideshow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.iconuser">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.iconvisible">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.lime_picture">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Birthing_Clinic_Patient_Records_System.My.Resources.Resources.yellowgreen_picture">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

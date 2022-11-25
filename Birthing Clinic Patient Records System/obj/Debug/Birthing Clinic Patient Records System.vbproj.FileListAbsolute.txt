@@ -1,0 +1,24 @@
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\bin\Debug\Birthing Clinic Patient Records System.exe.config
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\bin\Debug\Birthing Clinic Patient Records System.exe
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\bin\Debug\Birthing Clinic Patient Records System.pdb
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\bin\Debug\Birthing Clinic Patient Records System.xml
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\obj\Debug\Birthing Clinic Patient Records System.vbproj.AssemblyReference.cache
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\obj\Debug\Birthing Clinic Patient Records System.vbproj.SuggestedBindingRedirects.cache
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\obj\Debug\Birthing_Clinic_Patient_Records_System.Resources.resources
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\obj\Debug\Birthing Clinic Patient Records System.vbproj.GenerateResource.cache
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\obj\Debug\Birthing Clinic Patient Records System.vbproj.CoreCompileInputs.cache
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\obj\Debug\Birthing Clinic Patient Records System.exe
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\obj\Debug\Birthing Clinic Patient Records System.xml
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\obj\Debug\Birthing Clinic Patient Records System.pdb
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\obj\Debug\Birthing Clinic Patient Records System.vbproj.CopyComplete
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\bin\Debug\Guna.UI2.dll
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\obj\Debug\Birthing_Clinic_Patient_Records_System.AboutBox1.resources
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\obj\Debug\Birthing_Clinic_Patient_Records_System.SplashScreen1.resources
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\obj\Debug\Birthing_Clinic_Patient_Records_System.Form4.resources
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\obj\Debug\Birthing_Clinic_Patient_Records_System.frmlogin.resources
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\obj\Debug\Birthing_Clinic_Patient_Records_System.frmregistration.resources
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\obj\Debug\Birthing_Clinic_Patient_Records_System.frmmain.resources
+C:\Users\jolly\OneDrive\Desktop\Birthing Clinic Patient Records System\Birthing Clinic Patient Records System\obj\Debug\Birthing_Clinic_Patient_Records_System.Form5.resources
